@@ -1,0 +1,18 @@
+NAVALHA — VERSÃO VISUAL PARA GITHUB PAGES
+
+1. Extraia o ZIP.
+2. Envie os FICHEIROS que estão dentro desta pasta para a pasta principal do repositório. O index.html deve aparecer ao lado do README, não dentro de outra pasta.
+3. Em Settings > Pages, escolha Deploy from a branch, a branch main e a pasta / (root). Clique em Save.
+4. Aguarde a publicação e abra o endereço indicado pelo GitHub.
+
+Se já configurou um workflow que publica public/, use preferencialmente um repositório novo para esta versão e siga os passos acima. Se o reutilizar, desative apenas esse workflow de publicação anterior e use a publicação da branch. Não elimine o projeto completo original: guarde-o para a futura versão com reservas reais.
+
+Esta versão tem apenas HTML, CSS e JavaScript. Não precisa de Node.js, servidor ou base de dados. Pode abrir index.html no navegador para uma pré-visualização local.
+
+O formulário demonstra os passos do agendamento, com horários ilustrativos. Não envia ou guarda os dados, não bloqueia horários e não cria reservas. Use dados fictícios.
+
+A marca, os profissionais, os preços e a fotografia são exemplos. Altere-os antes de apresentar como site de uma empresa real. A paleta é grafite, branco-gelo e azul-cobalto.
+
+Ficheiros: index.html, styles.css, script.js, favicon.svg, barbearia.jpg e .nojekyll (opcional na publicação pela branch).
+
+Fotografia: Unsplash — https://images.unsplash.com/photo-1503951914875-452162b0f3f1
